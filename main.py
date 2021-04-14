@@ -17,8 +17,6 @@ def print_fruits():
   for fruit in list_of_fruits:
     print("1 kilogram x "+str(fruit)+" costs "+str(list_of_fruits[fruit])+'$')
 
-
-
 list_of_fruits = {
   "Orange":7,
   "Tomato":20,
